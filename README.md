@@ -3,6 +3,9 @@
  
  ![example gif](example.gif)
 
+## DEPRECATED
+There is a [Ext.field.Password](https://docs.sencha.com/extjs/7.7.0/modern/Ext.field.Password.html) field that you can use instead.
+
 ## Usage
  - Copy the class to your application
  - Create a field with the `ux-togglepasswordfield` xtype
